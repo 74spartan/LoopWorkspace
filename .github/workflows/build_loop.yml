@@ -288,7 +288,6 @@ jobs:
           lnl_icon \
           watch_title \
           meal_days \
-          meal_week \
           2002 \
           basal_lock \
           live_activity
